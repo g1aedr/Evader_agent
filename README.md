@@ -1,1 +1,1 @@
-This is a simple Evader agent for Game 9 of Scientific Python for Engineering course. 
+This is a simple Evader agent for Game 9 of the Scientific Python for Engineers course.
